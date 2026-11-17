@@ -5,7 +5,7 @@
   "main": "speed-test-cli.js",
   "type": "module",
   "bin": {
-    "speed-test": "./bin/speed-test.js"
+    "speed-test": "./bin/speed-test-cli.js"
   },
   "scripts": {
     "test": "node --test src/__tests__/*.test.js"

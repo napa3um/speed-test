@@ -31,13 +31,13 @@ npm exec speed-test <url> [-n <count>]
 
 ```bash
 # 10 requests (default)
-npx speed-test https://samplelib.com/png/sample-photo-3840x2160.png
+npx napa3um/speed-test https://samplelib.com/png/sample-photo-3840x2160.png
 
 # 5 requests
-npx speed-test https://samplelib.com/png/sample-photo-3840x2160.png -n 5
+npx napa3um/speed-test https://samplelib.com/png/sample-photo-3840x2160.png -n 5
 
 # 20 requests
-npx speed-test https://samplelib.com/png/sample-photo-3840x2160.png -count 20
+npx napa3um/speed-test https://samplelib.com/png/sample-photo-3840x2160.png -count 20
 ```
 
 ## Output
