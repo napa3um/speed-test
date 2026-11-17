@@ -1,0 +1,22 @@
+{
+  "name": "speed-test",
+  "version": "0.1.0",
+  "description": "CLI tool for streaming file download speed test",
+  "main": "speed-test-cli.js",
+  "type": "module",
+  "bin": {
+    "speed-test": "./bin/speed-test.js"
+  },
+  "scripts": {
+    "test": "node --test src/__tests__/*.test.js"
+  },
+  "keywords": [
+    "speed",
+    "test",
+    "download",
+    "cli",
+    "network"
+  ],
+  "author": "",
+  "license": "ISC"
+}
